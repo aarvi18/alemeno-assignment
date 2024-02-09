@@ -1,0 +1,27 @@
+.dashboard {
+    /* background-color: red; */
+    /* text-align: center; */
+    text-decoration: none;
+}
+
+.dashboard-Card span {
+    display: block;
+}
+
+.dashboard ul li {
+    list-style: none;
+    margin: 2rem;
+
+}
+
+.dashboard-Card {
+    /* background-color: yellow; */
+    margin: 2rem;
+}
+.dashboard-Card img {
+    width: 5rem;
+    border-radius: 50%;
+}
+.btn-remove {
+    margin: 0 2rem;
+}
